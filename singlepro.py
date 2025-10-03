@@ -1,4 +1,4 @@
-#Single Processor
+#Single Processor Evaluation
 import time 
 
 def basic_func(x):

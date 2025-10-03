@@ -7,7 +7,7 @@ def basic_func(x):
     elif x % 2 == 0:
         return 'even'  # Fixed indentation
     else:
-        return 'odd'   # Fixed indentation
+        return 'odd'   # Fixed indentation lol
 
 def multiprocessing_func(x):
     y = x * x
